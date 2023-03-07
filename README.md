@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NdzabaM
-- 👀 I’m interested in ...learning Front-End Development
-- 🌱 I’m currently relearning ...Javascript and C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...learning Game Development
+- 🌱 I’m currently relearning ...C++
+- 💞️ I’m looking to collaborate on ...game projects
 - 📫 How to reach me ... mndzaba17@gmail.com
 
 <!---
